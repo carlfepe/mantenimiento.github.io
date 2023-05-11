@@ -11,8 +11,13 @@
 ### El tiempo de intervencion del equipo no puede ser mayor a 1 hora.
 #
 ### Hacer un cronograma por area para realizar dicho mantenimiento.
-
+#
+#
 # Historia de Usuario
-
+#
 ![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/1720bc02-d0d1-4756-8a33-c3c0583867ed)
+#
+# Caso de Uso
+#
+
 
