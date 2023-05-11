@@ -17,10 +17,17 @@
 #
 ![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/1720bc02-d0d1-4756-8a33-c3c0583867ed)
 #
+#
 # Caso de Uso
 #
-![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/b55cb986-10fc-4eab-bf5a-156ecc0199c4)
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/2cc8c2d5-84e7-42db-829b-6047e780fdd4)
+#
 #
 # Diagrama de Flujo
 #
-
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/c6c563b7-64d5-4e82-afb1-745556d030f2)
+#
+#
+# Seudocodigo
+#
+###
