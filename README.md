@@ -49,4 +49,4 @@
 ### promedio +((numeq[i])/20)numar
 ### finPara
 ### Imprimir: ‘El promedio es:’ + promedio
-### Fin
+### End
