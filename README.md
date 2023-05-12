@@ -30,4 +30,23 @@
 #
 # Seudocodigo
 #
-###
+### Caracteres: area [30]
+### Real: promedio <- 0
+### entero: numar [10], i
+### entero: numeq [10]
+### Imprimir: ‘Digite el número de areas:’
+### Asignar: numar
+### Para i=0 hasta numar - 1, 1
+### Imprimir: ‘Digite nombre del area:’
+### Asignar: area
+### Imprimir: ‘Digite numero de equipos:’
+### Asignar: numeq
+### area[i] <- area
+### numeq [i] <- numero equipos
+### finPara
+### Para i=0 hasta numar - 1, 1
+### promedio <-
+### promedio +((numeq[i])/20)numar
+### finPara
+### Imprimir: ‘El promedio es:’ + promedio
+### Fin
