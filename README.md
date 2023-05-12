@@ -25,7 +25,7 @@
 #
 # Diagrama de Flujo
 #
-![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/c6c563b7-64d5-4e82-afb1-745556d030f2)
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/fbfad582-117c-4fea-aef1-32483198be10)
 #
 #
 # Seudocodigo
