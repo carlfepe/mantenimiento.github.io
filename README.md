@@ -51,7 +51,7 @@
 ### Imprimir: ‘El promedio es:’ + promedio
 ### End
 #
-# Programacion estructurada Mantenimiento Equipos
+# Programacion Estructurada Mantenimiento Equipos
 #
 ![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/faacc72d-7919-429c-b1a9-136d50c45b22)
 #
@@ -95,5 +95,66 @@
 ### }
 #
 ![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/fce59758-6ab5-4405-a0aa-57d46795c366)
-
+#
+# Programacion Orientada a Objetos Mantenimiento Equipos
+#
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/0578fed7-268d-40de-8c07-ddc8c0d3567c)
+#
+### Clase AREAPOO
+#
+### /**
+###  * Write a description of class AreaPOO here.
+###  * 
+###  * @author (your name) 
+###  * @version (a version number or a date)
+###  */
+### public class AreaPOO
+### {
+###     String areas;
+###     int numare;
+###     int numeq;
+### }
+#
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/03101642-1fbb-4999-8a66-610a594f8c32)
+#
+### Clase EQUIPOS
+#
+### /**
+###  * Write a description of class Equipos here.
+###  * 
+###  * @author (your name) 
+###  * @version (a version number or a date)
+###  */
+### import java.util.Scanner;
+### public class Equipos
+### {
+###     public static void main(String[] args){
+###         Scanner sc = new Scanner(System.in);
+###         int numare;
+###         AreaPOO[] lasAreas = new AreaPOO[50];
+###         String areas;
+###         int numeq;
+###         int promedio = 0;
+###         System.out.println("Digite la cantidad de areas administrativas: ");
+###         numare = sc.nextInt();
+###         for(int i = 0; i < numare; i++){
+###             System.out.println("Digite el nombre del area administrativa: ");
+###             areas = sc.next();
+###             System.out.println("Digite el numero de equipos asignados al area: ");
+###             numeq = sc.nextInt();
+###             AreaPOO unArea = new AreaPOO();
+###             unArea.areas = areas;
+###             unArea.numare = numare;
+###             unArea.numeq = numeq;
+###             lasAreas[i] = unArea;
+###         }
+###         for(int i = 0; i < numare; i++){
+###         int sum = ((lasAreas[i].numeq)/ 20);
+###         promedio = promedio + sum;
+###                 }
+###         System.out.println("El promedio de equipos diarios a realizar actualizaciones y mantenimiento preventivo es: " + promedio);
+###     }
+### }
+#
+![image](https://github.com/carlfepe/mantenimiento.github.io/assets/132966562/0f1b260a-f21f-4f73-9961-85ffd1c55ccb)
 
